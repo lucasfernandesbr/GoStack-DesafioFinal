@@ -21,5 +21,3 @@ Na pasta backend, no arquivo .env.example basta inserir as chaves de acesso para
 # - Mobile
 
 O app mobile foi desenvolvido e testado apenas no Android(a versão utilizada no desenvolvimento foi a 8.0.0).
-
-*yarn android* - inicia o app.
