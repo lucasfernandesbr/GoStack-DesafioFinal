@@ -16,7 +16,7 @@ Na pasta backend, no arquivo .env.example basta inserir as chaves de acesso para
 
 # - Frontend
 
-*yarn start* - inica a aplicação.
+*yarn start* - incia a aplicação.
 
 # - Mobile
 
